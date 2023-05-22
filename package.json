@@ -1,6 +1,6 @@
 {
   "name": "capitalize-lightweight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "2 lightweight helper functions to do 'helloWORLD' → 'Helloworld' or 'helloWORLD' → 'HelloWORLD'.",
   "main": "build/index.js",
   "types": "build/index.d.ts",

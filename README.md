@@ -1,8 +1,8 @@
-# Capitalize<span style="font-size: 14px; font-style: italic; color: #0cbbd4; vertical-align: super;">lightweight</span>
+<img alt="google-sheets-logo" src="./documentation/logo.png" />
 
 [![Version](https://img.shields.io/npm/v/capitalize-lightweight)](https://www.npmjs.com/package/capitalize-lightweight)
 
-Two lightweight helper functions to do `'helloWORLD' → 'Helloworld'` or `'helloWORLD' → 'HelloWORLD'`.
+2 lightweight helper functions to do `'helloWORLD' → 'Helloworld'` or `'helloWORLD' → 'HelloWORLD'`.
 
 ## Install
 
@@ -28,5 +28,5 @@ const s2 = capitalizeExtra('helloWORLD');
 console.log(s2); // => 'Helloworld'
 ```
 
-## "wHy dO i NEeD A LiB FOr that?!"
+## "wHy dO i NEeD A LiBrary FOr that?!"
 You don't ofc. I wanted mine. Feel free to re-use it.
