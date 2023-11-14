@@ -1,6 +1,6 @@
 {
   "name": "capitalize-lightweight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "2 lightweight helper functions to do 'helloWORLD' → 'Helloworld' or 'helloWORLD' → 'HelloWORLD'.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -33,14 +33,14 @@
   },
   "homepage": "https://github.com/maks-io/capitalize-lightweight#readme",
   "devDependencies": {
-    "@types/jest": "^29.5.1",
-    "@types/node": "^20.2.3",
-    "jest": "^29.5.0",
-    "nodemon": "^2.0.22",
-    "prettier": "^2.8.8",
-    "ts-jest": "^29.1.0",
+    "@types/jest": "^29.5.8",
+    "@types/node": "^20.9.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.1.0",
+    "ts-jest": "^29.1.1",
     "tsc": "^2.0.4",
-    "tsc-alias": "^1.8.6",
-    "typescript": "^5.0.4"
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.2.2"
   }
 }
